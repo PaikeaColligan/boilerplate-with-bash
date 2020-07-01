@@ -340,3 +340,6 @@ rmdir --help
 rm --help
 __vsc_prompt_cmd_original
 rm -r fonts
+ls --color=auto
+find
+ls --color=auto
