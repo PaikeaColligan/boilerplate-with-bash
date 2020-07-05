@@ -296,3 +296,6 @@ mv CodeAlly.svg client/assets/icon
 mv client/assets/icons/CodeAlly.svg
 mv client/assets/icons/CodeAlly.svg ./
 mv CodeAlly.svg client/assets/icons/
+find
+find website
+find
