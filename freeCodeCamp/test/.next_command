@@ -133,3 +133,4 @@ ls --color=auto
 rm background.png
 rm footer.jpg
 touch roboto.font
+touch lato.font
