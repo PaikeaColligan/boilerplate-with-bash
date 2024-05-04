@@ -174,3 +174,6 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+rm backround.jpg
+rm backgorund.jpg
+rm background.jpg
