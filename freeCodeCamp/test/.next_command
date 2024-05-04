@@ -179,3 +179,6 @@ rm backgorund.jpg
 rm background.jpg
 ls --color=auto
 ls --color=auto
+copy header.png images
+__vsc_prompt_cmd_original
+cp header.png images
