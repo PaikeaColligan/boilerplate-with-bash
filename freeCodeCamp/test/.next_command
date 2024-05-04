@@ -101,3 +101,4 @@ src
 ..
 cd src
 pwd
+ls --color=auto
