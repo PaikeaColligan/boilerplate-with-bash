@@ -299,3 +299,4 @@ mv CodeAlly.svg client/assets/icons/
 find
 find website
 find
+mv CodeRoad.svg client/assets/icons/
