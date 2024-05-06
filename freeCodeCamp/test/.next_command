@@ -372,3 +372,4 @@ find toms-website
 find boilerplate
 find website-boilerplate
 clear
+echo goodbye terminal
