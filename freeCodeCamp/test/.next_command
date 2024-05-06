@@ -338,3 +338,5 @@ find
 rmdir -help
 rmdir --help
 rm --help
+__vsc_prompt_cmd_original
+rm -r fonts
