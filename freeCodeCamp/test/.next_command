@@ -365,3 +365,7 @@ copy --help
 cp --help
 cp -r website-boilerplate toms-website
 ls --color=auto
+find
+__vsc_prompt_cmd_original
+find
+find toms-website
